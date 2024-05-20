@@ -1,7 +1,15 @@
-this is the readme file for ShowMe
+# ShowMe
 
-Created a session-based video chatroom where users can join a video call using a common room key. Utilized the Agora SDK to implement video streaming services and primarily used Django for backend development, including the admin panel, database management, and URL routing. As a web application, the frontend was built using HTML, CSS, and JavaScript.
+## Overview
+ShowMe is a session-based video chatroom where users can join a video call using a common room key. It utilizes the Agora SDK to implement video streaming services and primarily relies on Django for backend development, including the admin panel, database management, and URL routing. The frontend is built using HTML, CSS, and JavaScript.
 
-Through this project, I learned how to effectively use Django for backend management, integrate JavaScript scripts with Django, and utilize the Agora SDK for video calling functionality.
+## Project Details
+- **Backend Technology:** Django
+- **Frontend Technologies:** HTML, CSS, JavaScript
+- **Video Streaming Services:** Agora SDK
+- **Functionality:** Users can join video calls using a common room key.
+- **Learning Experience:** This project provided valuable insights into the effective use of Django for backend management, integration of JavaScript scripts with Django, and utilization of the Agora SDK for video calling functionality.
 
-I took the help from a youtuber DENNIS IVY to built this project.
+## Acknowledgments
+Special thanks to DENNIS IVY, a YouTuber, whose tutorials were instrumental in building this project.
+
